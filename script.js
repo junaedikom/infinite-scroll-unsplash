@@ -9,7 +9,7 @@ let initialLoad = true;
 
 // Unsplash API
 const count = 5;
-const apiKey = 'PS44C39tlHX8OnWfSXrflvat1bL6aSFfbWZujhdF9Us';
+const apiKey = '';
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
 // New Block
